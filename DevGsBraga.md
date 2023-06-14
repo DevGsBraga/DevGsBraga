@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevGsBraga
+- 👋 Hi, I’m @DevGsBraga = Gabriel Silva de Braga.
 - 👀 I’m interested in  Desenvolvimento Front-End . 
 - 🌱 I’m currently learng  HTML5, CSS3, JavaScript, Nodejs e PHP.
 - 💞️ I’m looking to collaborate on  Desenvolvimento de sites, software e apps. Com foco em Front-End. 
