@@ -5,7 +5,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=098afa&height=190&section=header&text=Gabriel+Braga"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Braga;I'm+27+years+old;I+from+Brasil,+AL;I+Web+develop+student+at+University+Estácio+de+Sá;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Braga;I'm+27+years+old;I+from+Brasil,+AL;I+am+Web+developer+student+at+University+Estácio+de+Sá;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
