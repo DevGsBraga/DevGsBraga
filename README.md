@@ -5,12 +5,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=098afa&height=190&section=header&text=Gabriel+Braga"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Braga;I'm+27+years+old;I+from+Brasil,+AL;I+am+Web+developer+student+at+University+Estácio+de+Sá;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Braga;I'm+27+years+old;I+from+Brasil,+AL;I+am+Web+developer+student+at+University+Estácio+de+Sá;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 
-  <h3>Main Skills</h3>
+  <h3>Hard Skills</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
